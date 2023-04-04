@@ -38,8 +38,8 @@ int pop() {
 int main() {
     push(10);
     push(20);
-    cout << pop() << " popped from stack\n";
+    cout << pop() << " popped\n";
     push(30);
-    cout << pop() << " popped from stack\n";
+    cout << pop() << " popped\n";
     return 0;
 }
