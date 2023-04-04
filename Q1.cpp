@@ -36,10 +36,10 @@ int pop() {
 
 
 int main() {
-    push(10);
-    push(20);
+    push(2);
+    push(3);
     cout << pop() << " popped\n";
-    push(30);
+    push(5);
     cout << pop() << " popped\n";
     return 0;
 }
