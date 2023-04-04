@@ -143,7 +143,7 @@ int main() {
     return 0;
 }
 
-//time taken for execution implementation using array (nano seconds)
+// time taken for execution implementation of a stack using array (nano seconds)
 
 // Time taken for push(8): 221 ns
 // Time taken for push(10): 114 ns

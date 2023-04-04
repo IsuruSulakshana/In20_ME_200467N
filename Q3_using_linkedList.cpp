@@ -160,7 +160,7 @@ int main() {
     return 0;
 }
 
-//time taken for execution implementation using linked list  (nano seconds)
+//time taken for execution implementation of a stack using linked list  (nano seconds)
 
 // Time taken for push(8): 594 ns
 // Time taken for push(10): 3315 ns
